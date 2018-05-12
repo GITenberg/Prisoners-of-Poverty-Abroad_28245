@@ -1,0 +1,32 @@
+_repo: Prisoners-of-Poverty-Abroad_28245
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Helen
+    aliases:
+    - Wheaton, Campbell
+    - Campbell, Helen Stuart, Mrs.
+    - Weeks, Helen C. (Helen Campbell)
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '2222'
+    url: http://www.gutenberg.org/2009/agents/2222
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
+description: ''
+gutenberg_issued: '2009-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28245'
+  lccn: 07032688
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Women -- Employment'
+title: Prisoners of Poverty Abroad
+url: http://www.gutenberg.org/ebooks/28245
